@@ -2202,9 +2202,11 @@ button.btn-approve {
 }
 .block-all-pages-top-menu table td.left {
     text-align: right;
+    width: 70%;
 }
 .block-all-pages-top-menu table td.right {
     text-align: right;
+    width: 30%;
 }
 
 .top-menu-account {

@@ -21,14 +21,14 @@
 <li><a href="/oplata/" >Оплата</a></li>
 <li><a href="/dostavka/" >Доставка</a></li>
 <li><a href="/garantii/" >Гарантии качества</a></li>
-<li><a href="/grafic/" >График роботы</a></li>
+<li><a href="/grafik/" >График роботы</a></li>
 </ul>
 <ul>
 <li>
 <h3>Информация</h3>
 </li>
 <li><a href="/law/" >Законодательство</a></li>
-<li><a href="/trust/" >Ответственность</a></li>
+<li><a href="/responsibility/" >Ответственность</a></li>
 </ul>
 <ul>
 <li>
@@ -36,7 +36,7 @@
 </li>
 <li><a href="/order-help/" >Как оформить заказ</a></li>
 <li><a href="/FAQ/" >Частые вопросы</a></li>
-<li><a href="/otzuvu/" >Рекомендации и отзывы</a></li>
+<li><a href="/otzyvy/" >Рекомендации и отзывы</a></li>
 </ul> 
              </div>
         </td>
