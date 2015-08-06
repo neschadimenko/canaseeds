@@ -10,8 +10,8 @@
 <h3>Магазин</h3>
 </li>
 <li><a href="/about-us/" >Официально в Украине</a></li>
-<li> <a href="discounts.php" >Акции</a> </li>
-<li><a href="news.php" >Новости</a></li>
+<li> <a href="/discounts/" >Акции</a> </li>
+<li><a href="/news/" >Новости</a></li>
 <li><a href="/contact-us/" >Контакты</a></li>
 </ul>
 <ul>
@@ -21,22 +21,22 @@
 <li><a href="/oplata/" >Оплата</a></li>
 <li><a href="/dostavka/" >Доставка</a></li>
 <li><a href="/garantii/" >Гарантии качества</a></li>
-<li><a href="grafic.php" >График роботы</a></li>
+<li><a href="/grafic/" >График роботы</a></li>
 </ul>
 <ul>
 <li>
 <h3>Информация</h3>
 </li>
-<li><a href="law.php" >Законодательство</a></li>
-<li><a href="trust.php" >Ответственность</a></li>
+<li><a href="/law/" >Законодательство</a></li>
+<li><a href="/trust/" >Ответственность</a></li>
 </ul>
 <ul>
 <li>
 <h3>Помощь</h3>
 </li>
-<li><a href="order-help.php" >Как оформить заказ</a></li>
-<li><a href="FAQ.php" >Частые вопросы</a></li>
-<li><a href="otzuvu.php" >Рекомендации и отзывы</a></li>
+<li><a href="/order-help/" >Как оформить заказ</a></li>
+<li><a href="/FAQ/" >Частые вопросы</a></li>
+<li><a href="/otzuvu/" >Рекомендации и отзывы</a></li>
 </ul> 
              </div>
         </td>
